@@ -77,7 +77,7 @@ final_year_project/
 If the project is hosted in a Git repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/DebajyotiBindu/HealthAI
 cd final_year_project
 ```
 
